@@ -1,7 +1,6 @@
 Backend System (Partial Module)
+This repository contains a partial public version of the Aadati backend system, available for technical review and demonstration. This repository focuses on specific modules (e.g., security, JWT, and core configurations), while maintaining the privacy of business logic and private components.
 
-This repository contains a partial public version of the Aadati enterprise backend system — shared for technical review and demonstration purposes.
-It focuses on selected modules (e.g., security, JWT, and core configurations) while keeping business logic and proprietary components private.
 ## 🎯 Technical Highlights
 
 - **Self-Healing Architecture**: Automated data consistency checks and repairs on system startup
