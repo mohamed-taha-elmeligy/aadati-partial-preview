@@ -33,7 +33,7 @@ src/main/java/com/aadati/
 ├── 📦 dto/
 │   ├── request/              # Request DTOs
 │   └── response/             # Response DTOs
-├── 📦 mapper/                # MapStruct Mappers
+├── 📦 mapper/              
 └── 📦 exception/             # Centralized Error Handling
 ```
 
@@ -159,18 +159,11 @@ Pageable Support:
 ### Supporting Libraries
 | Library | Version | Purpose |
 |---------|---------|---------|
-| MapStruct | 1.5.4 | DTO Mapping |
 | Lombok | 1.18.38 | Code Generation |
 | SpringDoc OpenAPI | 2.2.0 | API Documentation |
-| Spring Actuator | Latest | Monitoring & Health Checks |
-| Micrometer Prometheus | Latest | Metrics & Monitoring |
 | Apache Commons Lang3 | 3.17.0 | Utility Functions |
-| Bucket4j | 7.6.0 | Rate Limiting |
-| Passay | 1.6.4 | Password Validation |
-| MaxMind GeoIP2 | 4.2.1 | IP Geolocation |
 | UserAgentUtils | 1.21 | User Agent Parsing |
 | UAP-Java | 1.6.0 | Device Detection |
-| TestContainers | Latest | Integration Testing |
 | H2 Database | Latest | In-Memory Testing Database |
 | SonarQube | IDE Plugin | Code Quality Analysis |
 
