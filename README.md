@@ -129,10 +129,6 @@ Pageable Support:
 
 ---
 
-## 🗃️ Data Model (13 Entities)
-
-![WhatsApp Image 2025-10-03 at 23 20 28_ffeba359](https://github.com/user-attachments/assets/38bc178b-f603-452d-a6c2-d83afd8f212f)
-
 ### Core Domain
 1. **User Management**: User, Role entities
 2. **Primary Domain**: 2 main business entities with categorization
@@ -185,12 +181,11 @@ Pageable Support:
 
 ### Swagger Integration
 
-![WhatsApp Image 2025-10-03 at 23 17 24_360ab2e1](https://github.com/user-attachments/assets/6a02b942-c5eb-4000-bd0e-4fbd4b319e1f)
 ![WhatsApp Image 2025-10-03 at 23 16 45_c3fd97c3](https://github.com/user-attachments/assets/0f72daa0-406e-4344-84fb-b881df93e341)
 
 
 - **URL**: `http://localhost:8080/swagger-ui.html`
-- **150+ Documented Endpoints**
+- **Large RESTful API set (Full version includes 150+ endpoints)**
 - **Request/Response Examples**
 - **Interactive Testing Interface**
 
@@ -243,7 +238,7 @@ ERROR - Exceptions & critical failures
 ```
 
 2. **Database Configuration**
-```properties
+(Sample config — real credentials are environment-specific and not included)```properties
 # application.properties
 spring.datasource.url=jdbc:postgresql://localhost:5432/db_name
 spring.datasource.username=your_username
@@ -264,13 +259,6 @@ mvn spring-boot:run
 ```
 http://localhost:8080/swagger-ui.html
 ```
-
-### Default Credentials
-```
-Admin User: admin@system.com
-Password: [Configured in properties]
-```
-
 ---
 
 ## 🔧 Configuration
@@ -341,8 +329,6 @@ System Ready
 **Mohamed Taha Elmeligy**
 - GitHub:[ [@yourusername](https://github.com/mohamed-taha-elmeligy)](https://github.com/mohamed-taha-elmeligy/)
 - LinkedIn: [[Your Profile](https://linkedin.com/inmtelmeligy-backend-dev)](https://www.linkedin.com/in/mtelmeligy-backend-dev/)
-- Email: mt.elmeligy.dev@gmail.com
-
 ---
 
 <div align="center">
