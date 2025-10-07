@@ -4,7 +4,7 @@ This repository contains a partial public version of the Aadati backend system, 
 ## 🎯 Technical Highlights
 
 - **Self-Healing Architecture**: Automated data consistency checks and repairs on system startup
-- **150+ RESTful Endpoints**: Fully documented with OpenAPI/Swagger
+- **Large RESTful API set (Full version includes 150+ endpoints)***: Fully documented with OpenAPI/Swagger
 - **Advanced Security**: JWT-based authentication with role-based access control
 - **High Performance**: Optimized with caching, indexing, and connection pooling
 - **Domain-Driven Design**: Clean architecture with separation of concerns
@@ -256,7 +256,7 @@ mvn spring-boot:run
 
 5. **Access Documentation**
 ```
-http://localhost:8080/swagger-ui.html
+http://localhost:8082/swagger-ui.html
 ```
 ---
 
@@ -265,7 +265,7 @@ http://localhost:8080/swagger-ui.html
 ### Application Properties
 ```properties
 # Server Configuration
-server.port=8080
+server.port=8082
 
 # JWT Settings
 jwt.secret=your-secret-key
