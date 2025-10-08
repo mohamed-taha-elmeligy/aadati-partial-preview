@@ -10,7 +10,6 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 /**
  * © 2025  Mohamed Taha Elmeligy
  * This file is part of the eMTS Aadati Application.
- * Created on: 23/09/2025
  */
 
 @EnableScheduling
