@@ -9,5 +9,5 @@ package com.mts.aadati.initialization;
 @Component
 @RequiredArgsConstructor
 public class InitializationApplication {
-
+//Removed smart logic modules 
 }
