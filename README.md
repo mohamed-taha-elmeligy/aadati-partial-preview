@@ -15,7 +15,7 @@ This repository contains a partial public version of the Aadati backend system, 
 
 ### Domain-Driven Design Structure
 
-![WhatsApp Image 2025-10-03 at 23 21 09_47e1e5fe](https://github.com/user-attachments/assets/afe7b15c-36f2-48fb-9030-b5932156a00a)
+<img width="515" height="907" alt="Screenshot 2025-10-09 142457" src="https://github.com/user-attachments/assets/67d154b0-f3fc-4146-907f-57882fa91462" />
 
 ```
 src/main/java/com/aadati/
@@ -173,7 +173,8 @@ Pageable Support:
 
 ### Swagger Integration
 
-![WhatsApp Image 2025-10-03 at 23 16 45_c3fd97c3](https://github.com/user-attachments/assets/0f72daa0-406e-4344-84fb-b881df93e341)
+<img width="475" height="890" alt="Screenshot 2025-10-09 143413" src="https://github.com/user-attachments/assets/812ad7d3-46b3-458e-8d83-b3405cf0d559" />
+<img width="906" height="791" alt="Screenshot 2025-10-09 143512" src="https://github.com/user-attachments/assets/84f6378a-8c57-46e3-b84f-9eefac547579" />
 
 
 - **URL**: `http://localhost:8080/swagger-ui.html`
@@ -200,7 +201,7 @@ Pageable Support:
 
 ### SonarQube Integration (IntelliJ IDEA Plugin)
 
-![WhatsApp Image 2025-10-03 at 23 11 10_54d3e549](https://github.com/user-attachments/assets/490d63c3-d3dd-475f-9e0e-aec4b5a03b55)
+<img width="938" height="950" alt="Screenshot 2025-10-09 144241" src="https://github.com/user-attachments/assets/9cf62ec2-29b2-42d2-911b-8581c93528d4" />
 
 - ✓ **Real-time Code Analysis**: Instant feedback during development
 - ✓ **Bug Detection**: Automatic identification of potential bugs
