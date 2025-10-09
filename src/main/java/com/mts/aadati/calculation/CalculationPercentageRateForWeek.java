@@ -11,5 +11,5 @@ package com.mts.aadati.calculation;
 @Slf4j
 @Transactional
 public class CalculationPercentageRateForWeek {
-
+//Removed smart logic modules 
 }
