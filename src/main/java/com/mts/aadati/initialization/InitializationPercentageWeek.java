@@ -10,5 +10,5 @@ package com.mts.aadati.initialization;
 @Component
 @Slf4j
 public class InitializationPercentageWeek {
-
+//Removed smart logic modules 
 }
