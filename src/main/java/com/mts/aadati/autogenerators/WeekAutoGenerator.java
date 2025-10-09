@@ -6,5 +6,5 @@ package com.mts.aadati.autogenerators;
  */
 @Component
 public class WeekAutoGenerator {
-
+//Removed smart logic modules 
 }
