@@ -9,5 +9,5 @@ package com.mts.aadati.initialization;
 @Component
 @Slf4j
 public class InitializationHabitCompletion {
-
+//Removed smart logic modules 
 }
