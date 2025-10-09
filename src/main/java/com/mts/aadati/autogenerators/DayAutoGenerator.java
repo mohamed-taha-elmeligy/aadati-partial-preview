@@ -8,5 +8,5 @@ package com.mts.aadati.autogenerators;
 @Component
 @AllArgsConstructor
 public class DayAutoGenerator {
-
+//Removed smart logic modules 
 }
