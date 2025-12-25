@@ -13,7 +13,7 @@ This repository contains a partial public version of the Aadati backend system, 
 
 ## 🏗️ System Architecture
 
-### Domain-Driven Design Structure
+### MVC Structure
 
 <img width="515" height="907" alt="Screenshot 2025-10-09 142457" src="https://github.com/user-attachments/assets/67d154b0-f3fc-4146-907f-57882fa91462" />
 
