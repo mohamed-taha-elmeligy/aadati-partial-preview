@@ -7,7 +7,7 @@ This repository contains a partial public version of the Aadati backend system, 
 - **Large RESTful API set (Full version includes 150+ endpoints)***: Fully documented with OpenAPI/Swagger
 - **Advanced Security**: JWT-based authentication with role-based access control
 - **High Performance**: Optimized with caching, indexing, and connection pooling
-- **Domain-Driven Design**: Clean architecture with separation of concerns
+- **MVC**: Clean architecture with separation of concerns
 
 ---
 
